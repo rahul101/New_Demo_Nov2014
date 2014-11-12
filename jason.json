@@ -1,0 +1,7 @@
+
+
+
+{
+"AvailableRooms" : [{\"Category Id\":\"a1no0000000UBJs\",\"Category Image Url\":\"015o0000000FdjM\",\"Category Name\":\"Full\",\"Room Rate\":250.00,\"Room Description\":\"Full Test Mobile App\",\"Room Status\":\"Book Now\"}, {\"Category Id\":\"a1no0000000UBK7\",\"Category Image Url\":\"015o0000000FdjW\"\"Category Name\":\"Queen\",\"Room Rate\":$300.00,\"Room Description\":\"Queen Test Mobile App\",“Room Status” : “Book Now”}
+        ]
+}
