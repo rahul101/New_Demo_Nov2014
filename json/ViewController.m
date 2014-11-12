@@ -22,6 +22,8 @@
 	// Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"hello123");
+    NSLog(@"hello this is second time");
+    
     
     SBJsonParser *par=[[SBJsonParser alloc]init];
     filePath = [[NSBundle mainBundle] pathForResource:@"jason" ofType:@"json"];
